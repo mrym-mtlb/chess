@@ -2,7 +2,7 @@ import pygame as py
 import sys
 from button import Buttons
 
- 
+import pygame
 
 py.init()
 width = 720
